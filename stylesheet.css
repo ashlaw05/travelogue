@@ -1,7 +1,6 @@
 img {
     width: 250px;
-    height: 400px;
-    
+    height: 400px; 
 }
 
 body {
@@ -14,4 +13,9 @@ body {
 
 #footer {
     background-color: rgb(172, 194, 230);
+}
+
+hr.rounded {
+    border-top: 8px solid #bbb;
+    border-radius: 5px;
 }
