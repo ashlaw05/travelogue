@@ -19,3 +19,13 @@ hr.rounded {
     border-top: 8px solid #bbb;
     border-radius: 5px;
 }
+
+h1, h2, h3{
+    font-family: "Emilys Candy", "Gill Sans", sans-serif;
+}
+
+section{
+    display: flex;
+    padding: 1rem;
+    gap: 1rem;
+}
